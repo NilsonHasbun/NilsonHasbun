@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=¡Hola,+soy+Nilson!+👋;Desarrollador+Frontend;Bienvenido+a+mi+GitHub" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=¡Hola,%20soy%20Hasbunn!&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer&descAlignY=55&descSize=25&animation=twinkling" alt="Header Banner" width="100%" />
+  
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Transformando+ideas+en+interfaces...;Apasionado+por+el+diseño+web;Bienvenido+a+mi+espacio" alt="Typing SVG" />
 </div>
+
 <div align="center">
   <a href="https://linkedin.com/in/Nilson-David-Diaz-Hasbun"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:unwary11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
