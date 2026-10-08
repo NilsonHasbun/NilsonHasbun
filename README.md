@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=¡Hola,%20soy%20Hasbunn!&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer&descAlignY=55&descSize=25&animation=twinkling" alt="Header Banner" width="100%" />
   
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Transformando+ideas+en+interfaces...;Apasionado+por+el+diseño+web;Bienvenido+a+mi+espacio" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Transformando+ideas+en+interfaces...;Bienvenido+a+mi+espacio" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,36 +11,15 @@
 </div>
 <br/>
 
-### 👨‍💻 Sobre Mí
-
-Soy un apasionado por el desarrollo **Frontend**, enfocado en crear interfaces de usuario atractivas, accesibles y con excelente rendimiento.
-
-- 🔭 Actualmente trabajando en **mejorar mis habilidades en el desarrollo web**
-- 🌱 Actualmente aprendiendo **nuevas herramientas y frameworks de Frontend**
-- 💅 Me encanta el diseño de interfaces y la experiencia de usuario (UX/UI).
-- 💬 Pregúntame sobre **HTML, CSS, JavaScript y diseño web**
-- 📫 Cómo contactarme: **a través de mis redes sociales o correo arriba**
 ---
+
 ### 🛠️ Tecnologías y Herramientas
+
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,vscode,git,github&perline=9" alt="My Skills" />
+    <img height="40" src="https://skillicons.dev/icons?i=js&theme=dark" alt="Nivel 1" /><br>
+    <img height="40" src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="Nivel 2" /><br>
+    <img height="40" src="https://skillicons.dev/icons?i=react,tailwind,figma&theme=dark" alt="Nivel 3" /><br>
+    <img height="40" src="https://skillicons.dev/icons?i=vscode,git,github,npm&theme=dark" alt="Nivel 4" />
   </a>
-</div>
-
----
-
-### 📊 Mis Estadísticas en GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NilsonHasbun &show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de Hasbunn" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NilsonHasbun &theme=tokyonight&hide_border=true&background=0D1117" alt="Racha de Hasbunn" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilsonHasbun &layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes más usados" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
 </div>
