@@ -24,3 +24,9 @@
     <img height="40" src="https://skillicons.dev/icons?i=vscode,git,github,npm&theme=dark" alt="Nivel 4" />
   </a>
 </div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
+</div>
