@@ -23,7 +23,9 @@ Soy un apasionado por el desarrollo **Frontend**, enfocado en crear interfaces d
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,vscode,git,github&perline=9" alt="My Skills" />
   </a>
 </div>
+
 ---
+
 ### 📊 Mis Estadísticas en GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hasbunn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de Hasbunn" />
